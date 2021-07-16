@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaidAlizade
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning MERN stacks apps
+- 🌱 I’m currently learning web dev
 - 📫 You can reach me by my email saidjavanshir@gmail.com
 
 <!---
